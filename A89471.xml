@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Neutrality is malignancy: asserted in a letter from an eminent person in the Army, to his friend at Westminster : and clearly evidenced by an examination of a factious malignant libell, entitled, The moderator : wherein the authour thereof Thomas Povey Esquire, under a false pretext of moderation and neutrality, grosly slandereth the Parliament, and endevoureth to disswade the people from yeilding assistance, or adhering to them.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89471</idno>
+            <idno type="STC">Wing M42</idno>
+            <idno type="STC">Thomason E427_14</idno>
+            <idno type="STC">Thomason E462_24</idno>
+            <idno type="STC">ESTC R202843</idno>
+            <idno type="EEBO-CITATION">99863003</idno>
+            <idno type="PROQUEST">99863003</idno>
+            <idno type="VID">162203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162203)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[14], 74:E462[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Neutrality is malignancy: asserted in a letter from an eminent person in the Army, to his friend at Westminster : and clearly evidenced by an examination of a factious malignant libell, entitled, The moderator : wherein the authour thereof Thomas Povey Esquire, under a false pretext of moderation and neutrality, grosly slandereth the Parliament, and endevoureth to disswade the people from yeilding assistance, or adhering to them.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.M.</note>
+                  <note>A reply to: Povey, Thomas.  The moderator expecting sudden peace, or certaine ruine.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy E.427[14]: "Feb: 17. 1647"; the 8 in imprint date crossed out. Annotation on Thomason copy E.462[24]: "Sept ye 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Povey, Thomas, fl. 1633-1685. --  Moderator expecting sudden peace, or certaine ruine.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162203:1" rendition="simple:additions"/>
+            <p>NEUTRALITY is MALIGNANCY: ASSERTED In a <hi>Letter</hi> from an eminent Perſon in the
+<hi>Army,</hi> to his friend at <hi>Weſtminſter:</hi> AND Clearly evidenced by an
+<hi>examination</hi> of a <hi>factious Malignant Libell,</hi> ENTITLED, THE MODERATOR:
+<hi>WHEREIN</hi> The Authour thereof THOMAS POVEY Eſquire, under a falſe pretext of
+<hi>Moderation</hi> and <hi>Neutrality,</hi> groſly ſlandereth the PARLIAMENT, and endevoureth to diſſwade the People from yeilding Aſſiſtance, or Adhering to them.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 14.15.</hi>
+               </bibl>
+               <p>The ſimple believeth every word: but the prudent man looketh well to his going.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 26.26.</hi>
+               </bibl>
+               <p>Whoſe hand is covered by deceit, his wickedneſſe ſhall be ſhewed before the whole Congregation.</p>
+            </q>
+            <p>Printed in the year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162203:2"/>
+            <pb n="3" facs="tcp:162203:2"/>
+            <head>NEUTRALITY is MALIGNANCY, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou well remember the conteſt we had not long ſince concerning a Book, entitled, THE MO<g ref="char:EOLhyphen"/>DERATOR: At which time, though in reſpect of your heat, and the civility I bare unto ſo friendly a meeting, I ſeemed at length to yeild unto your commendation of that Pamphlet; yet leſt the Publique Cauſe (for which I have often jeoparded my life, and am ſtill in Arms ready to maintain) ſhould ſuffer through an over-modeſt ſilence, I have written theſe lines to let you un<g ref="char:EOLhyphen"/>derſtand, how ſmall ſatisfaction you then gave me, and how ſtifly I adhere to my opinion, that <hi>The Moderator</hi> is a factious-Malig<g ref="char:EOLhyphen"/>nant Invective againſt the Parliament, as empty of ſenſe, as con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Nor can ſober men expect any other then a muddy ſtream from a dirty fountain. Is not Maſter <hi>Povey</hi> the Authour of this Libell? Witneſſe the Gentlemen of
+<hi>Grays-Inne,</hi> Witneſſe the Stationers, Witneſſe the title of <hi>Moderator,</hi> wherewith his com<g ref="char:EOLhyphen"/>panions doe frequently ſalute him: And what can we look for from a
+<hi>Cavee</hi> (yea, from one who for his notoriouſneſſe is ſtiled, THE CAVALIER) but malignancy?</p>
+            <p>And to come up cloſe to the manifeſtation and proof thereof, his own words ſuffice to his conviction. For without further ce<g ref="char:EOLhyphen"/>remony then an impertinent Preface, he falleth hot upon the Par<g ref="char:EOLhyphen"/>liament, and declareth them to be the Authours of the late War, and by conſequence guilty of all the bloud and horrid diſtracti<g ref="char:EOLhyphen"/>ons of this Kingdome.<note place="margin">
+                  <hi>p.</hi> 3.
+<hi>l.</hi> 2, 4, 6.</note> 
+               <hi>Their courſes</hi> (ſaith he) <hi>did uſher in this War:</hi> And <hi>to theſe miſeries we have been unhappily betrayed,</hi> by a fourfold means:</p>
+            <p>
+               <pb n="4" facs="tcp:162203:3"/>1. <hi>By the Parliaments endevouring without ſucceſſe, or provi<g ref="char:EOLhyphen"/>dence, or enough of both, a high and Imperious Reformation.</hi> Fit words, and modeſt, are they not? </p>
+            <p>2. <hi>By putting the Militia, the Navy, and the Ports into new confiding hands:</hi>
+               <note place="margin">
+                  <hi>p.</hi>
+3. <hi>l.</hi> 34, 35, 36.</note> Which, alas tender Heart! (He profeſſeth) did ſorely perplex him with <hi>the expectation and fear of bloody ſho<g ref="char:EOLhyphen"/>wers.</hi>
+            </p>
+            <p>3. <hi>By diſcountenancing the Gentry and removing them from their Commands,<note place="margin">
+                     <hi>p.</hi> 4. <hi>l.</hi> 11.</note> and ſo from the uſuall reſpect they had in their Country: making little difference (or not the right)</hi> becauſe they then wan<g ref="char:EOLhyphen"/>ted Mr.
+<hi>Povey's</hi> help to judge <hi>between the Gentry and Yeomanry.</hi> Which he turneth off with a flour,<note place="margin">
+                  <hi>p.</hi> 15. <hi>a. l.</hi> 23.</note> 
+               <hi>They may be thus excuſed; they did not think it juſtice to look upon any man according to his quality, but as he was a Subject; I hope this was all the reaſon.</hi>
+            </p>
+            <p>4. <hi>By making Sides and Parties amongst the people;</hi>
+               <note place="margin">
+                  <hi>p.</hi> 4.
+<hi>l.</hi> 22.</note> To which end <hi>the Parliament took ſuch courſes as might incite the</hi> MOST, <hi>and publiſhed that firſt Remonſtrance,</hi>
+               <note place="margin">
+                  <hi>p.</hi>
+14. <hi>l.</hi> 19, 20, 25.</note> (Decemb. 15. 1641.) The moſt ſeaſonable and happy Alarum that ever came to an oppreſ<g ref="char:EOLhyphen"/>ſed languiſhing Nation, yet the <hi>Moderate</hi> Gentleman is ſo auda<g ref="char:EOLhyphen"/>cious as to ſtile it, THE UNHAPPY HISTORY OF THE FORE-GOING TIMES. And what (ſaith he) is the Reſult of all theſe Plots,<note place="margin">
+                  <hi>p.</hi> 4. <hi>l.</hi> 26.</note> Sidings and contrivances? But, <hi>The King there<g ref="char:EOLhyphen"/>fore removes Northward, to find out that ſafety which is denied him here:<note place="margin">
+                     <hi>p.</hi> 4. <hi>l.</hi> 32.</note> Henceforth we muſt look upon the Parliament as a Councel of War; we muſt not expect to find it punctuall in the obſervance of any fixed Law; Only,</hi> SALUS POPULI <hi>must be produced as a generall Warrant for all their undertakings, and</hi> LEX NECESSITATIS <hi>muſt be made to juſtifie all manner of ſeverity and violence. The Sword muſt become Chief Justice; Robbery change its name, and be called no more a crime then borrowing;<note place="margin">
+                     <hi>p.</hi> 5. <hi>l.</hi>
+29.</note> The killing of our Country<g ref="char:EOLhyphen"/>men muſt be called valour and a ſervice for the State; Diſobedience to the commands of our Prince muſt be called Loyalty; and in brief, we muſt ſee an inverſion of all order, Confuſion in all our ſervices t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heaven and Earth, and a</hi> Chaos, <hi>in ſtead of that admirable compo<g ref="char:EOLhyphen"/>ſure which many years of peace had e're now fixed this State in, if Thoſe that have of late times been over us</hi> (namely, the PARLIA<g ref="char:EOLhyphen"/>MENT)
+<hi>had done their parts.</hi> Is not this pure <hi>Oxonian</hi> language? Search the Kings Declarations, conſult with <hi>Williams, Ferne, Au<g ref="char:EOLhyphen"/>licus,</hi>
+               <pb n="5" facs="tcp:162203:3"/>and you ſhall not find them more agreeable to themſelves, then your <hi>Moderator</hi> is to them.</p>
+            <p>You ſee then the firſt Branch of this malignant Pamphlet is <hi>an Accuſation of the Parliament,</hi> and that of leſſe crime then the pro<g ref="char:EOLhyphen"/>curing of the late War with all its ſad and direfull effects. The other Branch is <hi>a Diſſwaſion of the People from joyning with them;</hi> Which he endevours under a pretext of Moderation and ſeeming Neutrality, and purſues this Theam with ſtore of words and a rabble of vain circumſtances; but the ſubſtance of all may be re<g ref="char:EOLhyphen"/>duced to theſe five Heads or Grounds:</p>
+            <p>His firſt ground of diſſwading the People from joyning with the Parliament, is, becauſe the late War was without Reaſon:<note place="margin">
+                  <hi>p.</hi> 6. <hi>l.</hi> 6.</note> 
+               <hi>When Reaſon</hi> (ſaith he) <hi>ſhall tell me how requiſite the proſecution of that War was, and how it may advantage the State, I ſhall be con<g ref="char:EOLhyphen"/>vinced.</hi>
+            </p>
+            <p>His ſecond ground is, becauſe <hi>the Parliament</hi> at that which (in his apprehenſion) is evill,<note place="margin">
+                  <hi>p.</hi> 6. <hi>l.</hi> 16, 25.</note> as <hi>to bring in an Ariſtocracy</hi> and make themſelves <hi>States:</hi> Or, at that which is vain and impoſſible, to wit, <hi>a Thorow Reformation;</hi>
+               <note place="margin">
+                  <hi>p.</hi> 25.
+<hi>l.</hi> 34.</note> 
+               <hi>then which</hi> (if this Forſooth-ſayer miſtake not) <hi>they will ſooner reach their own deſtruction.</hi>
+            </p>
+            <p>His third ground is, becauſe <hi>the Yeomanry</hi> that take part with the Parliament <hi>are nothing ſo conſiderable, as the Gentry</hi> of this Realm who take part with the King:<note place="margin">
+                  <hi>p.</hi> 15. <hi>a. l.</hi> 39.</note> For (ſaith he) <hi>the Gentle<g ref="char:EOLhyphen"/>man follows his Reſolution cloſe, and wins of his ſilly neighbours many times, either by his power, by his example, or his diſcourſe, when as they have an eaſie faith, quickly wrought upon and upon the next turn will fall off in ſholes.</hi>
+            </p>
+            <p>His fourth ground is,<note place="margin">
+                  <hi>p.</hi> 16. <hi>b. l.</hi> 14.</note> becauſe
+<hi>the King is the more likely to draw to Him the affections of the People, in that the preſſures and miſcar<g ref="char:EOLhyphen"/>riages of His late Government are paſſed, and almoſt expiated by His acknowledgement of them, and a promiſe of redreſſe, and are</hi> (as it were)
+<hi>forgotten by them, who reſent more their preſent, Grievances then a thouſand overpaſſed tranſgreſſions, which are driven out of their Remembrances by agravating every mistake, every circum<g ref="char:EOLhyphen"/>ſtance of injury and violence, which the</hi> Parliament, <hi>either againſt their will, or upon neceſſity</hi> (the common excuſe of States-men) <hi>doth commit.</hi>
+            </p>
+            <p>His fift and laſt ground is, becauſe the Parliament is a craſie,
+<pb n="6" facs="tcp:162203:4"/>helpleſſe, impotent thing in compariſon of His Majeſty. <hi>The Parliament</hi> (ſaith he) hath nothing to cement <hi>it ſelf,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 16. <hi>a. l.</hi> 7, 16, 21.</note> 
+               <hi>to increaſe and fix their Party, and keep it from ſtaggering, but a little tempora<g ref="char:EOLhyphen"/>ry reputation, and a reſolution to hold faſt to the Publique good, and this</hi> (if things run ſo high as they do now) <hi>will be called rebellious ſtubbornneſſe, and be branded with the foule imputation of</hi> Treaſon. <hi>Whereas the King</hi> (as the chief Maſter and Diſpenſer of the Com<g ref="char:EOLhyphen"/>mon-wealth) <hi>is able to fit the humour of every man that he hath a mind to take off: He hath the power of a Pardon to hold out like a Lure, to fetch in ſuch as have turned taile. By His Agents He will keep off the aid of forraign States from them, but is ſeldome denied ſome contribution towards His own defence.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 15. <hi>b. l.</hi>
+31.</note> 
+               <hi>The controling preſence of awfull Majeſty takes off, prevents, and counter plots the deſignes of any that are working neer to it. The King</hi> (a ſyllable, of as much advantage as an Army) <hi>in His very Name is</hi> ſacred <hi>and</hi> powerful,<note place="margin">
+                  <hi>p.</hi> 16. <hi>b. l.</hi> 23.</note> 
+               <hi>and ſhakes the conſciences of many, who would elſe have willing hands and ready purſes to oppoſe Him. He hath the advantage of the writ<g ref="char:EOLhyphen"/>ten Law, which he can uſe now, in His defence; and by the authority of it, joyned with the power of His Sword, can thunder out Accuſations, and the Penalties of Treaſon againſt thoſe whom He ſhall call His Oppoſers.</hi> Now the whole Kingdome muſt witneſſe, the King has often <hi>called</hi> and declared the Parliament and their adherents <hi>His Oppoſers;</hi> and therefore, what does the <hi>Moderator</hi> hereby inſi<g ref="char:EOLhyphen"/>nuate, but that all Parliamentarians ſhould be <hi>hang'd, drawn, and quarter'd,</hi> had the King power to excuſe the Law? If this be no malignancy, let Judge <hi>Jenkins</hi> be acquitted.</p>
+            <p>Needleſſe it were, and time miſ-implyed to ravell further into the garbage of this ſlanderous-bitter Libell againſt the Parlia<g ref="char:EOLhyphen"/>ment: For, if what I have at preſent laid open, (thought I con<g ref="char:EOLhyphen"/>feſſe much more may be alleaged there-out to the ſame purpoſe, &amp; ſhal be alleaged when the <hi>Corniſh</hi> Elections come into debate) be not ſufficient to convince your judgment, for me go on; and be confident, hereafter you will ſay, <hi>A friend once gave good you ad<g ref="char:EOLhyphen"/>vice.</hi> But yet, before I leave, let me tell you, that in this Pamph<g ref="char:EOLhyphen"/>let, there are not only <hi>Malignant,</hi> but alſo <hi>non-ſenſicall</hi> and moſt <hi>irreligious</hi> expreſſions.</p>
+            <p>What kin is this ſentence to a Bull;<note place="margin">p. <hi>2.</hi> l. ult.</note> 
+               <hi>Wars, like diſeaſes, are a long while working upon the humours, before they diſcover them<g ref="char:EOLhyphen"/>ſelves;</hi>
+               <pb n="7" facs="tcp:162203:4"/>unleſſe <hi>the Moderator</hi> can prove that men fight ſome years under ground, before they fight above? What ſenſe in this,<note place="margin">p. <hi>5.</hi> l. ult.</note> 
+               <hi>How like to theſe calamities the miſeries we have felt already are, the ſad experience of too many may witneſſe, who have drunk deep of this bitter Cup?</hi> That is in plain Engliſh, ſuch who have taſted of theſe calamities, can witneſſe how like they are to theſe calamities: Theſe like to theſe, a man like to a man; Is not here good ſtuffe? And what ſenſe or reaſon is there in this,<note place="margin">
+                  <hi>p.</hi> 24. <hi>l.</hi> 3.</note> 
+               <hi>The Common-wealth is now in the ſame, yet in more danger, then ever they ſaw it?</hi> As if a thruſt through the body were the ſame as a prick with the ſwords point; Or, a ſhilling the ſame as a penny.</p>
+            <p>As for <hi>Irreligious</hi> Expreſſions, be you your ſelf judge. For, though the Scriptures teſtifie, we are all in the hands of GOD,<note place="margin">
+                  <hi>Rom.</hi> 9.21.</note> to be diſpoſed of according to His Divine pleaſure,<note place="margin">
+                  <hi>Eſa.</hi>
+45.7.</note> and that all <hi>peace</hi> and <hi>ceſſation of Armes</hi> is from Him alone;<note place="margin">
+                  <hi>Pſal.</hi> 46.9.</note> Yet this <hi>Mode<g ref="char:EOLhyphen"/>rator</hi> feareth not to ſay,<note place="margin">
+                  <hi>p.</hi> 2. <hi>l.</hi> 15.</note> 
+               <hi>It is in our own election what ſhall become of us.</hi> Though the Scriptures exhort, with patience to <hi>wait upon the Lord</hi> and <hi>not limit the Holy One of Iſrael;</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi>
+27.14.</note> Yet this <hi>Moderator</hi> profeſſeth, <hi>his Faith ſhall go no further then his Reaſon;</hi>
+               <note place="margin">
+                  <hi>p.</hi> 6. <hi>l.</hi> 4, 5.</note> and like one in deſpair, crieth out, <hi>Now or never, Sudden Peace or certain Ruine.</hi> Though the Scriptures teach, that a man <hi>ſwearing to his own hurt, ſhould not change;</hi> Yet this
+<hi>Moderator</hi> ſaith,<note place="margin">
+                  <hi>p.</hi> 21. <hi>l.</hi> 15.</note> 
+               <hi>It cannot be expected that a Prince, if he be wiſe as well as pious, ſhall be ſo ſuper<g ref="char:EOLhyphen"/>ſtitious to the ſtrict ſenſe of any Proteſtations, as to neglect his in<g ref="char:EOLhyphen"/>tereſt, which may ſuffer very much whiles he makes a conſcience to do things fit and requiſite.</hi> And what is this but to ſay, A Prince that maketh conſcience of his Oath, when the breaking it may advan<g ref="char:EOLhyphen"/>tage, him, is a ſuperſtitious fool?</p>
+            <p>I might alſo note unto you the ragged compoſure of this Pamphlet; and the Authours phantaſtick, proud, ſelf-conceited, pragmaticall humour, which diſcovers it ſelf in every Page, as clearly, as if you had heard him ſpeak, ſeen his poſture, and taken an accompt of his Mornings work: But my lines are multiplied already to a greater bulk then at firſt I intended, and therefore I ſhall without further circumſtances break off; Only deſiring you to lay aſide paſſion and partiallity, and with a ſerious conſidera<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:162203:5"/>to weigh what is here written unto you from a friend; who hath no other aime but to prevent (as far as in him lieth) your deſerting the Parliament and their Cauſe: For be aſſured, if you are not for them, you are againſt them; Neutrality and Modera<g ref="char:EOLhyphen"/>tion is the Cavaliers laſt refuge, and a cloak for Malignancy. So fare you well,</p>
+            <closer>
+               <signed>
+                  <hi>And number me amongst thoſe who are ever ready to ſerve you,</hi> J. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
